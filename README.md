@@ -14,3 +14,6 @@
     id: 'p1',
   },
 ```
+
+## Running the quiz
+# To run the application, just type ```npm run dev``` on your terminal and access the localhost.
